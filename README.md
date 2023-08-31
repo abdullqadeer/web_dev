@@ -1,4 +1,4 @@
 # web_dev
 Web Development
 
-This just for keeping my practice web development resources.
+This is just to keep my practiced web development resources.
